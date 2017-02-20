@@ -1,0 +1,8 @@
+{
+  "Type" : "AWS::EC2::Instance",
+  "Properties" : {
+    "ImageId" : "ami-0b33d91d",
+    "KeyName" : "Brad",
+    "SecurityGroups" : "sg-35154549"
+  }
+}
